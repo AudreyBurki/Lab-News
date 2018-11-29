@@ -1,6 +1,6 @@
-## We are recruiting
+## We are recruiting !!
 
-We are looking for a post-doctoral researcher to work on a newly funded DFG grant (see next post). More details can be found [here]( 
+We are looking for a post-doctoral researcher to work on a newly funded DFG grant (see next post). More details can be found [here](https://audreyburki.github.io/Job-Annoucement/)
 
 
 
