@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## We are recruiting
 
-You can use the [editor on GitHub](https://github.com/AudreyBurki/Lab-News/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are looking for a post-doctoral researcher to work on a newly funded DFG grant (see next post). More details can be found [here]( 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## New DFG grant (29.11.2018)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AudreyBurki/Lab-News/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A newly funded DFG grant will allow us to study how speakers plan utterances (i.e., how many words they plan ahead before articulation onset, in which order a words planned within planning units?). To do so, the project capitalizes on cross-linguistic differences in how words constrain the pronunciation of one another in an utterance (e.g., to produce the correct form of the determiner in _Die schwarze Katze_ german speakers must have accessed the gender of the noun. English speakers can produce the determiner in _The black cat_ correctly without havenig accessed the noun.)
+Experiments (behavioral, eye-tracking) will be conducted with German, French and English speakers.
