@@ -1,7 +1,7 @@
-## We are recruiting !!
 
-We are looking for a post-doctoral researcher to work on a newly funded DFG grant (see next post). More details can be found [here](https://audreyburki.github.io/Job-Announcement/)
+## New Collaborator (01.03.2019)
 
+Emiel van den Hoven joined the lab to work on utterance planning across languages
 
 
 ## New DFG grant (29.11.2018)
