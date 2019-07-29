@@ -1,4 +1,18 @@
 
+
+
+
+## PhD Student (01.08.2019)
+
+Shereen Elbuy, who has been working with us as a Research Assistant just started her PhD. She will work on language production in Arabic.
+
+
+## New research assistants join the lab (01.07.2019)
+
+Cheslie Klein and Anna Slocinska have joined the lab and will work with Emiel and I on utterance planning across languages. 
+
+
+
 ## New Collaborator (01.03.2019)
 
 Emiel van den Hoven joined the lab to work on utterance planning across languages
