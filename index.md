@@ -13,6 +13,15 @@ Cheslie Klein and Anna Slocinska have joined the lab and will work with Emiel an
 
 
 
+## We are going to ESCOP
+
+Maria, Sylvain, Hyein, Leonie and I will go to ESCOP:
+- VARIABILITY AND ORTHOGRAPHY IN LEARNING NEW WORDS (Bürki, Spinelli, Welby)
+- THE LOCUS OF PHRASE FREQUENCY EFFECT IN ADJECTIVE-NOUN PHRASE PRODUCTION (Jeong, Bürki)
+- SEMANTIC INTERFERENCE AND PHONOLOGICAL FACILITATION IN PICTURE-WORD INTERFERENCE (Madec, Elbuy, Villinger, Bürki)
+- SEMANTIC INTEGRATION OF NEW VOCABULARY: DOES LEARNING CONTEXT MATTER? (Korochkina, Bürki, Nickels)
+
+
 ## New Collaborator (01.03.2019)
 
 Emiel van den Hoven joined the lab to work on utterance planning across languages
