@@ -1,5 +1,10 @@
 
 
+## Climate-friendly initiative at the University of Potsdam
+
+Just committed to not take the plane to go on conferences within 1000 km.
+
+https://www.uni-potsdam.de/de/umweltportal/handlungsfelder/mobilitaet/dienstreisen.html?tx_powermail_pi1%5Baction%5D=create&tx_powermail_pi1%5Bcontroller%5D=Form&cHash=ef18126efde5e77de9585d8bf585fbe0
 
 
 ## PhD Student (01.08.2019)
