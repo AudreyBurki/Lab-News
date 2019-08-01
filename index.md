@@ -2,7 +2,7 @@
 
 ## [Climate-friendly initiative](https://www.uni-potsdam.de/de/umweltportal/handlungsfelder/mobilitaet/dienstreisen.html?tx_powermail_pi1%5Baction%5D=create&tx_powermail_pi1%5Bcontroller%5D=Form&cHash=ef18126efde5e77de9585d8bf585fbe0) at the University of Potsdam
 
-https://www.uni-potsdam.de/de/umweltportal/handlungsfelder/mobilitaet/dienstreisen.html?tx_powermail_pi1%5Baction%5D=create&tx_powermail_pi1%5Bcontroller%5D=Form&cHash=ef18126efde5e77de9585d8bf585fbe0
+Just commited to not take the plane anymore for conferences within 1000 km
 
 
 ## PhD Student (01.08.2019)
