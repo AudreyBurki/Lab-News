@@ -1,4 +1,6 @@
 
+## New Collaborator (01.10.2019)
+Ali Behzadnia was accepted in the IDEALAB program (congratulations!). He will spend the first two years of his PhD with us in Potsdam and the last year at Macquarie University in Sydney with Elisabeth Beyersmann. 
 
 ## [Climate-friendly initiative](https://www.uni-potsdam.de/de/umweltportal/handlungsfelder/mobilitaet/dienstreisen.html?tx_powermail_pi1%5Baction%5D=create&tx_powermail_pi1%5Bcontroller%5D=Form&cHash=ef18126efde5e77de9585d8bf585fbe0) at the University of Potsdam
 
