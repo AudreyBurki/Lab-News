@@ -1,6 +1,6 @@
 
 
-## Post-doc position available in the lab (01.08.2020-30.06.2021)
+## Post-doc position available in the lab (08.05.2020)
 contact: buerki@uni-potsdam.de
 
 ## New paper accepted in the Journal of Memory and Language
