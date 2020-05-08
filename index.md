@@ -4,7 +4,7 @@
 contact: buerki@uni-potsdam.de
 
 ## New paper accepted in the Journal of Memory and Language
-Our paper "What did we learn from forty years of research on semantic interference? A Bayesian metaanalysis" (Authors: A. Bürki, S. Elbuy, S. Madec, S. Vasishth) has been accepted ni the Journal of Memory and Language.
+Our paper "What did we learn from forty years of research on semantic interference? A Bayesian metaanalysis" (Authors: A. Bürki, S. Elbuy, S. Madec, S. Vasishth) has been accepted in the Journal of Memory and Language.
 Preprint can be found [here](https://arxiv.org/abs/2004.05895)
 
 ## New Collaborator (01.10.2019)
