@@ -1,6 +1,7 @@
 
 
 ## Post-doc position available in the lab (08.05.2020)
+more details [here](https://audreyburki.github.io/Post-doc-position/)
 contact: buerki@uni-potsdam.de
 
 ## New paper accepted in the Journal of Memory and Language
