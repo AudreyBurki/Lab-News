@@ -1,6 +1,6 @@
 
 ## Heisenberg grant (06.08.2020)
-Heisenberg grant awarded to Audrey Bürki, with the folloing project: "From thinking about two blue giraffes to saying /tuːbluːʤɪˈrɑːfs/... Cracking the code of the LAnguage Production System (CLAPs)"
+Heisenberg grant awarded to Audrey Bürki, with the following project: "From thinking about two blue giraffes to saying /tuːbluːʤɪˈrɑːfs/... Cracking the code of the LAnguage Production System (CLAPs)"
 
 ## New collaborator (15.07.2020)
 Pamela Fuhrmeister from UConn joined the team, welcome! Find out more here https://pamfuhrmeister.com/
