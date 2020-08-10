@@ -1,8 +1,9 @@
 
+## New collaborator (15.07.2020)
+Pamela Fuhrmeister from UConn joined the team, welcome!
 
-## Post-doc position available in the lab (08.05.2020)
-more details [here](https://audreyburki.github.io/Post-doc-position/)
-contact: buerki@uni-potsdam.de
+## New paper accepted in Language, Cognition and Neuroscience (July 2020)
+Bürki, A., Viebahn, M., Gafos, A. (in press). Plasticity and transfer in the sound system: Exposure to syllables in production or perception changes their subsequent production.
 
 ## New paper accepted in the Journal of Memory and Language
 Our paper "What did we learn from forty years of research on semantic interference? A Bayesian metaanalysis" (Authors: A. Bürki, S. Elbuy, S. Madec, S. Vasishth) has been accepted in the Journal of Memory and Language.
