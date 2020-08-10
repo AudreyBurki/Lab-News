@@ -1,9 +1,9 @@
 
-## DFG grant (06.08.2020)
-DFG Heisenberg grant "From thinking about two blue giraffes to saying /tuːbluːʤɪˈrɑːfs/... Cracking the code of the LAnguage Production System (CLAPs)"
+## Heisenberg grant (06.08.2020)
+Heisenberg grant awarded to Audrey Bürki, with the folloing project: "From thinking about two blue giraffes to saying /tuːbluːʤɪˈrɑːfs/... Cracking the code of the LAnguage Production System (CLAPs)"
 
 ## New collaborator (15.07.2020)
-Pamela Fuhrmeister from UConn joined the team, welcome!
+Pamela Fuhrmeister from UConn joined the team, welcome! Find out more here https://pamfuhrmeister.com/
 
 ## New paper accepted in Language, Cognition and Neuroscience (July 2020)
 Bürki, A., Viebahn, M., Gafos, A. (in press). Plasticity and transfer in the sound system: Exposure to syllables in production or perception changes their subsequent production.
