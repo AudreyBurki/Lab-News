@@ -1,4 +1,7 @@
 
+## DFG grant (06.08.2020)
+DFG Heisenberg grant "From thinking about two blue giraffes to saying /tuːbluːʤɪˈrɑːfs/... Cracking the code of the LAnguage Production System (CLAPs)"
+
 ## New collaborator (15.07.2020)
 Pamela Fuhrmeister from UConn joined the team, welcome!
 
