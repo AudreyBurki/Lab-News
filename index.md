@@ -1,4 +1,10 @@
 
+## Ringvorlesung Kognitionswissenschaft
+Audrey Bürki gave a lecture in the lecture series Cognitive Science at the Institute of Psychology, Humboldt University (Berlin)
+
+## New PhD Student (01.10.2020)
+Solveig Castelli joined the lab in October, on a grant from the Idealab program. Welcome!
+
 ## Heisenberg grant (06.08.2020)
 Heisenberg grant awarded to Audrey Bürki, with the following project: "From thinking about two blue giraffes to saying /tuːbluːʤɪˈrɑːfs/... Cracking the code of the LAnguage Production System (CLAPs)"
 
