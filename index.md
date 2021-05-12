@@ -1,5 +1,8 @@
 
 
+## New paper accepted in Journal of Cognitive Neuroscience (May 2021)
+Congratulations to Hyein Jeong for her first paper!
+
 ## New DFG funded project (April 2021)
 The project, entitled "New insights into the speaker’s lexicon: Computational modelling and experimental data” will start in a few months and run during three years. Positions will be available. More soon.
 
