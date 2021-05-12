@@ -1,4 +1,8 @@
 
+
+## New DFG funded project (April 2021)
+The project, entitled "New insights into the speaker’s lexicon: Computational modelling and experimental data” will start in a few months and run during three years. Positions will be available. More soon.
+
 ## Ringvorlesung Kognitionswissenschaft
 Audrey Bürki gave a lecture in the lecture series Cognitive Science at the Institute of Psychology, Humboldt University (Berlin)
 
