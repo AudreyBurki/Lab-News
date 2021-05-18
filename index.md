@@ -1,10 +1,12 @@
 
 
-## New paper accepted in Journal of Cognitive Neuroscience (May 2021)
-Congratulations to Hyein Jeong for her first paper!
+### New paper accepted in Journal of Cognitive Neuroscience (May 2021)
+Congratulations to Hyein Jeong for her first paper! The paper, data and script can be accessed here. https://osf.io/9gy4r/files
+The study uses behavioral, acoustic, and neurophysiological data to examine the impact of word co-occurrences (extracted from big corpora) on language production.
 
-## New DFG funded project (April 2021)
-The project, entitled "New insights into the speaker’s lexicon: Computational modelling and experimental data” will start in a few months and run during three years. Positions will be available. More soon.
+### New DFG funded project (April 2021)
+The project, entitled "New insights into the speaker’s lexicon: Computational modeling and experimental data” will start in a few months and run during three years. Positions will be available. More soon.
+
 
 ## Ringvorlesung Kognitionswissenschaft
 Audrey Bürki gave a lecture in the lecture series Cognitive Science at the Institute of Psychology, Humboldt University (Berlin)
