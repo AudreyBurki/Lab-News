@@ -1,5 +1,5 @@
 
-### New Project funded (April 2021)
+### New Project funded (May 2021)
 The DFG approved the second phase of the SFB 1287 "Variability in language". Our project in the SFB will examine how speakers plan their speech ahead and whether advanced planning depends on available resources (manipulated using a driving simulator). 
 
 
