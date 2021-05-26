@@ -1,10 +1,14 @@
 
+### New Project funded (April 2021)
+The DFG approved the second phase of the SFB 1287 "Variability in language". Our project in the SFB will examine how speakers plan their speech ahead and whether advanced planning depends on available resources (manipulated using a driving simulator). 
+
 
 ### New paper accepted in Journal of Cognitive Neuroscience (May 2021)
 Congratulations to Hyein Jeong for her first paper! The paper, data and script can be accessed here. https://osf.io/9gy4r/files
 The study uses behavioral, acoustic, and neurophysiological data to examine the impact of word co-occurrences (extracted from big corpora) on language production.
 
-  
+Jeong, H., van den Hoven, E., Madec, S., & Bürki, A. (accepted for publication). Behavioral and brain responses highlight the role of usage in the preparation of multi-word utterances for production. Journal of Cognitive Neuroscience.
+
 ### New DFG funded project (April 2021)
 The project, entitled "New insights into the speaker’s lexicon: Computational modeling and experimental data” will start in a few months and run during three years. Positions will be available. More soon.
   
