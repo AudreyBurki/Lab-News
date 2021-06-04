@@ -1,5 +1,5 @@
 
-### New paper in Journal of Memory of Language (Jue 2021)
+### New paper in Journal of Memory of Language (June 2021)
 Congratulations to [Maria Korochkina](https://mariakna.github.io/) on her first paper! 
 
 Korochkina, M., Bürki, A., & Nickels, L. (2021). Apples and oranges: How does learning context affect novel word learning? Journal of Memory and Language, Volume 120, 104246. (data and script can be accessed [here](https://osf.io/g7ftz/)
@@ -9,7 +9,9 @@ Despite scarce empirical evidence, introducing new vocabulary in semantic catego
 
 
 ### New Project funded (May 2021)
-The DFG approved the second phase of the SFB 1287 "Variability in language". Our project in the SFB will examine how speakers plan their speech ahead and whether advanced planning depends on available resources (manipulated using a driving simulator). 
+The DFG approved the second phase of the SFB 1287 "Variability in language" (read more [here](https://www.uni-potsdam.de/en/pressreleases/detail/2021-05-26-double-success-funding-extension-for-the-dfg-collaborative-research-centers-at-the-unive). 
+
+Our project in the SFB will examine how speakers plan their speech ahead and whether advanced planning depends on available resources (manipulated using a driving simulator). 
 
 
 ### New paper accepted in Journal of Cognitive Neuroscience (May 2021)
