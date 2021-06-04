@@ -2,7 +2,7 @@
 ### New paper in Journal of Memory of Language (June 2021)
 Congratulations to [Maria Korochkina](https://mariakna.github.io/) on her first paper! 
 
-Korochkina, M., Bürki, A., & Nickels, L. (2021). Apples and oranges: How does learning context affect novel word learning? Journal of Memory and Language, Volume 120, 104246. (data and script can be accessed [here](https://osf.io/g7ftz/)
+Korochkina, M., Bürki, A., & Nickels, L. (2021). Apples and oranges: How does learning context affect novel word learning? Journal of Memory and Language, Volume 120, 104246. (data and script can be accessed [here](https://osf.io/g7ftz/))
 
 Abstract
 Despite scarce empirical evidence, introducing new vocabulary in semantic categories has long been standard in second language teaching. We examined the effect of learning context on encoding, immediate recall and integration of new vocabulary into semantic memory by contrasting categorically related (novel names for familiar concepts blocked by semantic category) and unrelated (mixed semantic categories) learning contexts. Two learning sessions were conducted 24 hours apart, with each participant exposed to both contexts. Subsequently, a test phase examined picture naming, translation and picture-word interference tasks. Compared to the unrelated context, the categorically related context resulted in poorer naming accuracy in the learning phase, slower response latencies at the immediate recall tasks and greater semantic interference in the picture-word interference task (picture naming in L1 with semantically related novel word distractors). We develop a theoretical account of word learning that attributes observed differences to episodic rather than semantic memory.https://doi.org/10.1016/j.jml.2021.104246
