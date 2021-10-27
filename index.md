@@ -1,4 +1,11 @@
 
+
+### Two new papers for our project in the SFB 1287 "Variability in language"
+Bürki, A., & Madec., S. (in press). Picture-word interference in language production studies: Exploring the roles of attention and processing times. Journal of Experimental Psychology: Learning, Memory, & Cognition (link to article and data to be added soon)
+
+Fuhrmeister, P., & Bürki, A. (in press). Distributional properties of semantic interference in picture naming: Bayesian meta-analyses. Psychonomic Bulletin & Review (link to article and data to be added soon)
+
+
 ### New paper in Journal of Memory of Language (June 2021)
 Congratulations to [Maria Korochkina](https://mariakna.github.io/) on her first paper! 
 
