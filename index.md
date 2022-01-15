@@ -1,4 +1,6 @@
 
+### New lab members (January 2022)
+Marie Hansen (PhD student) and [Paula Lissón](https://paulalisson.github.io) (Post-doc) have just joined the lab. Welcome! 
 
 ### Two new papers for our project in the SFB 1287 "Variability in language"
 Bürki, A., & Madec., S. (in press). Picture-word interference in language production studies: Exploring the roles of attention and processing times. Journal of Experimental Psychology: Learning, Memory, & Cognition (link to article and data to be added soon)
