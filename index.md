@@ -1,13 +1,27 @@
 
+
+### Applications open for the 7th Summer School on Statistical Methods for Linguistics and Psychology
+Info for applicants can be found [here](https://vasishth.github.io/smlp2023/) 
+
+### We appear in Wissen (March 2023)
+Some of our research reported in the magazine [Wissen](https://www.uni-potsdam.de/fileadmin/projects/up-entdecken/docs/portal_wissen/2023/PortalWissen_1-2023_de_web_neu.pdf) (in German)
+
+### News from the simulator (Feb. 2023)
+The driving simulator is ready to go, first pilot data collected. Let's talk and drive. More soon.
+
+## 2022
 ### New lab members (January 2022)
 Marie Hansen (PhD student) and [Paula Lissón](https://paulalisson.github.io) (Post-doc) have just joined the lab. Welcome! 
+
+### Teaching in Potsdam Summer School on Statistical Methods for Linguistics and Psychology
+Check news and schedule [here](https://vasishth.github.io/smlp2022/)
 
 ### Two new papers for our project in the SFB 1287 "Variability in language"
 Bürki, A., & Madec., S. (in press). Picture-word interference in language production studies: Exploring the roles of attention and processing times. Journal of Experimental Psychology: Learning, Memory, & Cognition (link to article and data to be added soon)
 
 Fuhrmeister, P., & Bürki, A. (in press). Distributional properties of semantic interference in picture naming: Bayesian meta-analyses. Psychonomic Bulletin & Review (link to article and data to be added soon)
 
-
+## 2021
 ### New paper in Journal of Memory of Language (June 2021)
 Congratulations to [Maria Korochkina](https://mariakna.github.io/) on her first paper! 
 
