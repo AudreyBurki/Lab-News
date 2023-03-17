@@ -1,7 +1,9 @@
 
 
-### Applications open for the 7th Summer School on Statistical Methods for Linguistics and Psychology
+### Applications are open for the 7th Summer School on Statistical Methods for Linguistics and Psychology
 Info for applicants can be found [here](https://vasishth.github.io/smlp2023/) 
+
+
 
 ### We appear in Wissen (March 2023)
 Some of our research reported in the magazine [Wissen](https://www.uni-potsdam.de/fileadmin/projects/up-entdecken/docs/portal_wissen/2023/PortalWissen_1-2023_de_web_neu.pdf) (in German)
@@ -15,6 +17,8 @@ Marie Hansen (PhD student) and [Paula Lissón](https://paulalisson.github.io) (P
 
 ### Teaching in Potsdam Summer School on Statistical Methods for Linguistics and Psychology
 Check news and schedule [here](https://vasishth.github.io/smlp2022/)
+
+<br>
 
 ### Two new papers for our project in the SFB 1287 "Variability in language"
 Bürki, A., & Madec., S. (in press). Picture-word interference in language production studies: Exploring the roles of attention and processing times. Journal of Experimental Psychology: Learning, Memory, & Cognition (link to article and data to be added soon)
