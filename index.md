@@ -4,6 +4,7 @@
 ### Summer school in Oslo (Sept. 2023)
 We're contributing to the [Multiling Summer School in Oslo](https://www.uio.no/studier/emner/hf/iln/HFILN9080/Course%20content%20Autumn%202023.html) 
 
+<br>
 
 ### Applications are open for the 7th Summer School on Statistical Methods for Linguistics and Psychology
   Info for applicants can be found [here](https://vasishth.github.io/smlp2023/) 
