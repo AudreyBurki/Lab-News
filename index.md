@@ -8,6 +8,12 @@ We're contributing to the [Multiling Summer School in Oslo](https://www.uio.no/s
 
 <br>
 
+### New PhD student (Sept 2023)
+
+Sabia Constantini joined our lab, wecome Sabia! We are looking forward to working with you.
+
+<br>
+
 ### Applications are open for the 7th Summer School on Statistical Methods for Linguistics and Psychology
   Info for applicants can be found [here](https://vasishth.github.io/smlp2023/) 
 
