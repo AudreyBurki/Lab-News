@@ -1,5 +1,7 @@
-###
+### Statistical consulting with the [LiRI](https://www.liri.uzh.ch/en.html) (University of Zürich) (Oct. 2023)
+Audrey Bürki joined the Language [StatsGroup](https://www.liri.uzh.ch/en/services/statistics.html) as a statistical consultant. 
 
+<br>
 
 ### Summer school in Oslo (Sept. 2023)
 We're contributing to the [Multiling Summer School in Oslo](https://www.uio.no/studier/emner/hf/iln/HFILN9080/Course%20content%20Autumn%202023.html) 
