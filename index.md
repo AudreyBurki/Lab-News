@@ -1,3 +1,8 @@
+
+### New Funded project! (Dec. 2023)
+Together with Elsa Spinelli Université (Grenoble Alpes) and P. Welby (Université Aix-Marseille) we will be looking at the impact of orthographic knowledge during second language word learning. Post-doc and PhD positions will be available soon! The project is funded jointly by the ANR and DFG and will run in 2024-2026.
+
+
 ### Statistical consulting with the [LiRI](https://www.liri.uzh.ch/en.html) (University of Zürich) (Oct. 2023)
 Audrey Bürki joined the Language [StatsGroup](https://www.liri.uzh.ch/en/services/statistics.html) as a statistical consultant. 
 
