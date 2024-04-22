@@ -1,3 +1,5 @@
+## New post-doc position
+We are looking for a highly motivated post-doc to work on a DFG-funded project on language planning and cognitive resources. Check [here](https://github.com/AudreyBurki/Lab-News/blob/master/Ausschreibung_PostDoc_Buerki_AB2024_2.docx) for details 
 
 ### New Funded project! (Dec. 2023)
 Together with Elsa Spinelli Université (Grenoble Alpes) and P. Welby (Université Aix-Marseille) we will be looking at the impact of orthographic knowledge during second language word learning. Post-doc and PhD positions will be available soon! The project is funded jointly by the ANR and DFG and will run in 2024-2026.
