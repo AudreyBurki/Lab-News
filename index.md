@@ -1,5 +1,6 @@
 ## New post-doc position
-We are looking for a highly motivated post-doc to work on a DFG-funded project on language planning and cognitive resources. The post-doc 
+We are looking for a highly motivated candidate with a background in psycholinguistics, experimental linguistics, or experimental psychology (Ph.D. in Psychology, Cognitive Science, or Linguistics). The ideal candidate has expertise in experimental data analysis and excellent written communication skills in English. Programming skills (e.g., Python, Matlab) are a plus.
+The candidate will work on a project investigating the links between language planning and available cognitive resources across the life span using a driving simulator and eyetracker. His/her tasks will include: Writing and editing of journal articles, statistical analyses of existing data, collection, pre-processing and statistical analyses of novel experimental data. 
 
 Check [here](https://www.sfb1287.uni-potsdam.de/stellenausschreibungen/)) for details 
 
